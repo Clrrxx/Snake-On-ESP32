@@ -26,6 +26,8 @@ The Modulo Offset Rule: To map a generic random number generator (rand()) to a c
 
 Since I already created Snake before, this simply is translating the original code from Raylib over to usable ESP32 code. 
 
+<img width="506" height="360" alt="ezgif-38cac0db183adbeb" src="https://github.com/user-attachments/assets/8f1ad94b-06c3-4011-a7dd-e8807f4114bc" />
+<img width="506" height="360" alt="ezgif-3814a9cd5c354de3" src="https://github.com/user-attachments/assets/0bb19c99-becd-498e-bd1d-4226e481ef70" />
 
 
 
